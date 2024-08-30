@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\bin\Debug\net8.0\UniqueValueFromString.exe
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\bin\Debug\net8.0\UniqueValueFromString.deps.json
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\bin\Debug\net8.0\UniqueValueFromString.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\bin\Debug\net8.0\UniqueValueFromString.dll
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\bin\Debug\net8.0\UniqueValueFromString.pdb
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.dll
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\refint\UniqueValueFromString.dll
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.pdb
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\UniqueValueFromString.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\UniqueValueFromString\obj\Debug\net8.0\ref\UniqueValueFromString.dll

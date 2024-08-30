@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\bin\Debug\net8.0\CompareTwoRandomUnSquenceString.exe
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\bin\Debug\net8.0\CompareTwoRandomUnSquenceString.deps.json
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\bin\Debug\net8.0\CompareTwoRandomUnSquenceString.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\bin\Debug\net8.0\CompareTwoRandomUnSquenceString.dll
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\bin\Debug\net8.0\CompareTwoRandomUnSquenceString.pdb
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.dll
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\refint\CompareTwoRandomUnSquenceString.dll
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.pdb
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\CompareTwoRandomUnSquenceString.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\CompareTwoRandomUnSquenceString\obj\Debug\net8.0\ref\CompareTwoRandomUnSquenceString.dll

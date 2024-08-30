@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\bin\Debug\net8.0\PossibleSetsOfString.exe
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\bin\Debug\net8.0\PossibleSetsOfString.deps.json
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\bin\Debug\net8.0\PossibleSetsOfString.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\bin\Debug\net8.0\PossibleSetsOfString.dll
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\bin\Debug\net8.0\PossibleSetsOfString.pdb
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.dll
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\refint\PossibleSetsOfString.dll
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.pdb
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\PossibleSetsOfString.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\PossibleSetsOfString\obj\Debug\net8.0\ref\PossibleSetsOfString.dll

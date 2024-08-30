@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\bin\Debug\net8.0\SplitStringFromCapsLetter.exe
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\bin\Debug\net8.0\SplitStringFromCapsLetter.deps.json
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\bin\Debug\net8.0\SplitStringFromCapsLetter.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\bin\Debug\net8.0\SplitStringFromCapsLetter.dll
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\bin\Debug\net8.0\SplitStringFromCapsLetter.pdb
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.dll
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\refint\SplitStringFromCapsLetter.dll
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.pdb
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\SplitStringFromCapsLetter.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\SplitStringFromCapsLetter\obj\Debug\net8.0\ref\SplitStringFromCapsLetter.dll

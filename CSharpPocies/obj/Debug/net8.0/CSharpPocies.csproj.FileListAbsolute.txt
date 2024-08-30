@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\bin\Debug\net8.0\CSharpPocies.exe
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\bin\Debug\net8.0\CSharpPocies.deps.json
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\bin\Debug\net8.0\CSharpPocies.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\bin\Debug\net8.0\CSharpPocies.dll
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\bin\Debug\net8.0\CSharpPocies.pdb
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.dll
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\refint\CSharpPocies.dll
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.pdb
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\ref\CSharpPocies.dll

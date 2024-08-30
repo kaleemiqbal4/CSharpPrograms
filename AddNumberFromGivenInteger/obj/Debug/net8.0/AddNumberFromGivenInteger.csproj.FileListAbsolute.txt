@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\bin\Debug\net8.0\AddNumberFromGivenInteger.exe
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\bin\Debug\net8.0\AddNumberFromGivenInteger.deps.json
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\bin\Debug\net8.0\AddNumberFromGivenInteger.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\bin\Debug\net8.0\AddNumberFromGivenInteger.dll
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\bin\Debug\net8.0\AddNumberFromGivenInteger.pdb
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.dll
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\refint\AddNumberFromGivenInteger.dll
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.pdb
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\AddNumberFromGivenInteger.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\AddNumberFromGivenInteger\obj\Debug\net8.0\ref\AddNumberFromGivenInteger.dll

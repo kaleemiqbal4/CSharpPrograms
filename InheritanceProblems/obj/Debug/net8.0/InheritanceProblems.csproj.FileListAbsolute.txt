@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\bin\Debug\net8.0\InheritanceProblems.exe
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\bin\Debug\net8.0\InheritanceProblems.deps.json
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\bin\Debug\net8.0\InheritanceProblems.runtimeconfig.json
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\bin\Debug\net8.0\InheritanceProblems.dll
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\bin\Debug\net8.0\InheritanceProblems.pdb
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.AssemblyInfo.cs
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.dll
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\refint\InheritanceProblems.dll
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.pdb
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\InheritanceProblems.genruntimeconfig.cache
+D:\KALEEM\pocies\CSharpPocies\InheritanceProblems\obj\Debug\net8.0\ref\InheritanceProblems.dll
