@@ -12,3 +12,4 @@ D:\KALEEM\pocies\CSharpPocies\MaxAndMinFromArray\obj\Debug\net8.0\refint\MaxAndM
 D:\KALEEM\pocies\CSharpPocies\MaxAndMinFromArray\obj\Debug\net8.0\MaxAndMinFromArray.pdb
 D:\KALEEM\pocies\CSharpPocies\MaxAndMinFromArray\obj\Debug\net8.0\MaxAndMinFromArray.genruntimeconfig.cache
 D:\KALEEM\pocies\CSharpPocies\MaxAndMinFromArray\obj\Debug\net8.0\ref\MaxAndMinFromArray.dll
+D:\KALEEM\pocies\CSharpPocies\MaxAndMinFromArray\obj\Debug\net8.0\MaxAndMinFromArray.sourcelink.json

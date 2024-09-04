@@ -1,0 +1,107 @@
+# Ignore the build output directories
+bin/
+obj/
+
+# Ignore specific build configurations
+bin/Debug/
+bin/Debug/net8.0/
+
+# Ignore user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignore NuGet package directory
+packages/
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore JetBrains Rider IDE files
+.idea/
+
+# Ignore ASP.NET temporary files
+*.log
+*.dmp
+*.pdb
+*.swp
+*.suo
+*.sln.docstates
+*.ncb
+*.suo
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+
+# Ignore .NET Core specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore NuGet package files
+*.nupkg
+*.snupkg
+
+# Ignore the dotnet tool cache
+.dotnet/
+
+# Ignore local environment files
+.env
+
+# Ignore global tool configuration
+.globalconfig
+
+# Ignore HTTP archive
+*.har
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore various IDE and editor specific files
+# Windows
+ehthumbs.db
+# Mac
+*.DS_Store
+# Linux
+*~
+
+# Ignore git metadata files
+.git/
+
+# Ignore other common ignored files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.pid
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.iso
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.ogg
+*.flac
+*.mdf
+*.ldf
+*.sql
+*.sqlite
+*.db

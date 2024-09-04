@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitStringFromCapsLetter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4a221c26ff85eba29541e62acf27c0f2fdfc281")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitStringFromCapsLetter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitStringFromCapsLetter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

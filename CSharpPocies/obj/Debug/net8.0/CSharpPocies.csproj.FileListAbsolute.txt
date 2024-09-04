@@ -12,3 +12,4 @@ D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\refint\CSharpPocies.
 D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.pdb
 D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.genruntimeconfig.cache
 D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\ref\CSharpPocies.dll
+D:\KALEEM\pocies\CSharpPocies\CSharpPocies\obj\Debug\net8.0\CSharpPocies.sourcelink.json
