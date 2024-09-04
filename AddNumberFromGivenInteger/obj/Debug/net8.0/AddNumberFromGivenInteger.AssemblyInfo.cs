@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddNumberFromGivenInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4a221c26ff85eba29541e62acf27c0f2fdfc281")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ab306e002de5348b977c18f85e8ef11ae36862b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddNumberFromGivenInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddNumberFromGivenInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
