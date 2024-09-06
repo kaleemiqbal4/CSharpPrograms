@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\KALEEM\\pocies\\CSharpPocies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{470C1D96-F9A4-446E-A9C6-57B6D7868871}|AppendDeleteStringOperations\\AppendDeleteStringOperations.csproj|d:\\kaleem\\pocies\\csharppocies\\appenddeletestringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470C1D96-F9A4-446E-A9C6-57B6D7868871}|AppendDeleteStringOperations\\AppendDeleteStringOperations.csproj|solutionrelative:appenddeletestringoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EB13034-6709-4CA1-A910-1F04A09A7D67}|FindSquareBetweenTwoNumbers\\FindSquareBetweenTwoNumbers.csproj|d:\\kaleem\\pocies\\csharppocies\\findsquarebetweentwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB13034-6709-4CA1-A910-1F04A09A7D67}|FindSquareBetweenTwoNumbers\\FindSquareBetweenTwoNumbers.csproj|solutionrelative:findsquarebetweentwonumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KALEEM\\pocies\\CSharpPocies\\AppendDeleteStringOperations\\Program.cs",
-              "RelativeDocumentMoniker": "AppendDeleteStringOperations\\Program.cs",
-              "ToolTip": "D:\\KALEEM\\pocies\\CSharpPocies\\AppendDeleteStringOperations\\Program.cs",
-              "RelativeToolTip": "AppendDeleteStringOperations\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "DocumentMoniker": "D:\\KALEEM\\pocies\\CSharpPocies\\FindSquareBetweenTwoNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "FindSquareBetweenTwoNumbers\\Program.cs",
+              "ToolTip": "D:\\KALEEM\\pocies\\CSharpPocies\\FindSquareBetweenTwoNumbers\\Program.cs",
+              "RelativeToolTip": "FindSquareBetweenTwoNumbers\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwAsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:45:32.131Z",
+              "WhenOpened": "2024-09-06T22:10:25.226Z",
               "EditorCaption": ""
             }
           ]
